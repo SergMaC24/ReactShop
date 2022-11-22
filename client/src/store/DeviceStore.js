@@ -16,10 +16,12 @@ export default class DeviceStore {
         ]
         this._devices = [
             {id: 1, name: 'Iphone 12 pro', price: 2500, rating: 5, img: 'https://m.media-amazon.com/images/I/611fy2og0QL._AC_SY606_.jpg'},
-            {id: 1, name: 'Iphone 12 pro', price: 2500, rating: 5, img: 'https://m.media-amazon.com/images/I/611fy2og0QL._AC_SY606_.jpg'},
-            {id: 1, name: 'Iphone 12 pro', price: 2500, rating: 5, img: 'https://m.media-amazon.com/images/I/611fy2og0QL._AC_SY606_.jpg'},
-            {id: 1, name: 'Iphone 12 pro', price: 2500, rating: 5, img: 'https://m.media-amazon.com/images/I/611fy2og0QL._AC_SY606_.jpg'},
-            {id: 1, name: 'Iphone 12 pro', price: 2500, rating: 5, img: 'https://m.media-amazon.com/images/I/611fy2og0QL._AC_SL1500_.jpg'},
+            {id: 2, name: 'Iphone 12 pro', price: 2500, rating: 5, img: 'https://m.media-amazon.com/images/I/611fy2og0QL._AC_SY606_.jpg'},
+            {id: 3, name: 'Iphone 12 pro', price: 2500, rating: 5, img: 'https://m.media-amazon.com/images/I/611fy2og0QL._AC_SY606_.jpg'},
+            {id: 4, name: 'Iphone 12 pro', price: 2500, rating: 5, img: 'https://m.media-amazon.com/images/I/611fy2og0QL._AC_SY606_.jpg'},
+            {id: 5, name: 'Iphone 12 pro', price: 2500, rating: 5, img: 'https://m.media-amazon.com/images/I/611fy2og0QL._AC_SL1500_.jpg'},
+            {id: 6, name: 'Iphone 12 pro', price: 2500, rating: 5, img: 'https://m.media-amazon.com/images/I/611fy2og0QL._AC_SL1500_.jpg'},
+            {id: 7, name: 'Iphone 12 pro', price: 2500, rating: 5, img: 'https://m.media-amazon.com/images/I/611fy2og0QL._AC_SL1500_.jpg'},
         ]
         this._selectedType = {}
         this._selectedBrand = {}

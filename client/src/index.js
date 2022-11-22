@@ -10,8 +10,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
         <Context.Provider value={{
             user: new UserStore(),
-            device: new DeviceStore()
+            device: new DeviceStore(),
         }}>
             <App/>
-        </Context.Provider>
+        </Context.Provider>,
 );
